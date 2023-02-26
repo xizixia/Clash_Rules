@@ -7,5 +7,6 @@ payload:
   - DOMAIN-SUFFIX, me.com
   - DOMAIN-SUFFIX, ls-apple.com.akadns.net
   - DOMAIN-SUFFIX, a.akamaiedge.net
+  - DOMAIN-SUFFIX, fe.apple-dns.net
 
   
