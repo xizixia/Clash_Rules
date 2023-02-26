@@ -51,3 +51,4 @@ payload:
   - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,ess.apple.com
+  - DOMAIN-SUFFIX,gsa.apple.com
