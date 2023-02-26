@@ -41,8 +41,5 @@ payload:
   - DOMAIN-SUFFIX,musickit.net
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,wwwapplemusic.com
-  - DOMAIN-SUFFIX,apple.news
-  - DOMAIN-SUFFIX,apple.comscoreresearch.com
-  - DOMAIN-SUFFIX,gateway.icloud.com
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,tv.applemusic.com
