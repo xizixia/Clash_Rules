@@ -45,7 +45,9 @@ payload:
   - DOMAIN-SUFFIX,tv.applemusic.com
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,appleid.apple.com
-  - DOMAIN-SUFFIX, appleid.cdn-apple.com
-  - DOMAIN-SUFFIX, idmsa.apple.com
-  - DOMAIN-SUFFIX, icloud.apple.com
-  - DOMAIN-SUFFIX, apple-dns.net
+  - DOMAIN-SUFFIX,appleid.cdn-apple.com
+  - DOMAIN-SUFFIX,idmsa.apple.com
+  - DOMAIN-SUFFIX,icloud.apple.com
+  - DOMAIN-SUFFIX,apple-dns.net
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,ess.apple.com
