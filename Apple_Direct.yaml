@@ -11,4 +11,5 @@ payload:
   - DOMAIN-SUFFIX, icloud.apple.com
   - DOMAIN-SUFFIX, ess.apple.com
   - DOMAIN-SUFFIX, me.com
+  - DOMAIN-SUFFIX, ls-apple.com.akadns.net
   
