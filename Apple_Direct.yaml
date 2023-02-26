@@ -3,15 +3,9 @@ payload:
   - DOMAIN-SUFFIX, direction2.is.autonavi.com
   - DOMAIN-SUFFIX, dispatcher.is.autonavi.com
   - DOMAIN-SUFFIX, rap.is.autonavi.com
-  - DOMAIN-SUFFIX, icloud.com
   - DOMAIN-SUFFIX, push.apple.com
-  - DOMAIN-SUFFIX, appleid.apple.com
-  - DOMAIN-SUFFIX, appleid.cdn-apple.com
-  - DOMAIN-SUFFIX, idmsa.apple.com
-  - DOMAIN-SUFFIX, icloud.apple.com
-  - DOMAIN-SUFFIX, ess.apple.com
   - DOMAIN-SUFFIX, me.com
   - DOMAIN-SUFFIX, ls-apple.com.akadns.net
   - DOMAIN-SUFFIX, a.akamaiedge.net
-  - DOMAIN-SUFFIX, apple-dns.net
+
   
