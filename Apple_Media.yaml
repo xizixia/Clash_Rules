@@ -48,7 +48,6 @@ payload:
   - DOMAIN-SUFFIX,appleid.cdn-apple.com
   - DOMAIN-SUFFIX,idmsa.apple.com
   - DOMAIN-SUFFIX,icloud.apple.com
-  - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,ess.apple.com
   - DOMAIN-SUFFIX,gsa.apple.com
