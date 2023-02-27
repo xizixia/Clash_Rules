@@ -19,3 +19,5 @@ payload:
   - '+.apple-mapkit.com'
   - '+.apple-dns.net'
   - '+.content-storage-upload.googleapis.com'
+  - '+.skk.moe'
+  - '+.ipify.org'
