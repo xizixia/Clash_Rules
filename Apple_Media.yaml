@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,itunes.apple.com
-  - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,music.apple.com,Proxy # AM.Web.Homepage
   - DOMAIN-SUFFIX,aod.itunes.apple.com,Proxy # AM.Playing.Songs
