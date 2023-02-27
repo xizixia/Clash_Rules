@@ -1,17 +1,18 @@
 payload:
   - DOMAIN-SUFFIX,icloud-content.com
-  - DOMAIN-SUFFIX,music.apple.com,Proxy # AM.Web.Homepage
-  - DOMAIN-SUFFIX,aod.itunes.apple.com,Proxy # AM.Playing.Songs
-  - DOMAIN-SUFFIX,mvod.itunes.apple.com,Proxy # AM.Playing.MV
-  - DOMAIN-SUFFIX,itsliveradio.apple.com,Proxy # AM.Radio.Live
-  - DOMAIN-SUFFIX,aodp-ssl.apple.com,Proxy # AM.Radio.Live.Video
-  - DOMAIN-SUFFIX,video-ssl.itunes.apple.com,Proxy # iTunes.Trailer.Movie
-  - DOMAIN-SUFFIX,hls-amt.itunes.apple.com,Proxy # iTunes.Movie
-  - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,Proxy # iTunes.Store.Play.Before.Buy
-  - DOMAIN-SUFFIX,streamingaudio.itunes.apple.com,Proxy # iTunes.Store.Play.After.Buy
-  - DOMAIN-SUFFIX,amazonaws.com,Proxy # AM.My.Library.Upload
-  - DOMAIN-SUFFIX,blobstore.apple.com,Proxy # iTunes.Match
-  - DOMAIN-SUFFIX,audio.itunes.apple.com,Proxy # iTunes.Match
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,music.apple.com # AM.Web.Homepage
+  - DOMAIN-SUFFIX,aod.itunes.apple.com # AM.Playing.Songs
+  - DOMAIN-SUFFIX,mvod.itunes.apple.com # AM.Playing.MV
+  - DOMAIN-SUFFIX,itsliveradio.apple.com # AM.Radio.Live
+  - DOMAIN-SUFFIX,aodp-ssl.apple.com # AM.Radio.Live.Video
+  - DOMAIN-SUFFIX,video-ssl.itunes.apple.com # iTunes.Trailer.Movie
+  - DOMAIN-SUFFIX,hls-amt.itunes.apple.com # iTunes.Movie
+  - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com # iTunes.Store.Play.Before.Buy
+  - DOMAIN-SUFFIX,streamingaudio.itunes.apple.com # iTunes.Store.Play.After.Buy
+  - DOMAIN-SUFFIX,amazonaws.com # AM.My.Library.Upload
+  - DOMAIN-SUFFIX,blobstore.apple.com # iTunes.Match
+  - DOMAIN-SUFFIX,audio.itunes.apple.com # iTunes.Match
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,hls-amt.itunes.apple.com
   - DOMAIN-SUFFIX,hls.itunes.apple.com
