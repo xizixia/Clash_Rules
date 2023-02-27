@@ -17,3 +17,5 @@ payload:
   - '+.apple.com'
   - '+.apple-cloudkit.com'
   - '+.apple-mapkit.com'
+  - '+.apple-dns.net'
+  - '+.content-storage-upload.googleapis.com'
