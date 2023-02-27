@@ -9,3 +9,4 @@ payload:
   - DOMAIN,gsp-ssl.ls.apple.com
   - DOMAIN,sundew.ls.apple.com
   - DOMAIN,gspe19-cn-ssl.ls-apple.com.akadns.net
+  - DOMAIN-SUFFIX, mail.me.com
