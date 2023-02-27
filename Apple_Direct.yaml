@@ -14,5 +14,5 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-mapkit.com
-
-  
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,icloud.com
