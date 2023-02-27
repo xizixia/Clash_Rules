@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,play-edge.itunes.apple.com
   - DOMAIN-SUFFIX,tv.applemusic.com
   - DOMAIN-SUFFIX,uts-api.itunes.apple.com
+  - DOMAIN-SUFFIX,icloud.com
