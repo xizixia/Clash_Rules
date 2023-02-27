@@ -2,6 +2,9 @@ payload:
   - DOMAIN,safebrowsing.urlsec.qq.com
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN-SUFFIX,mzstatic.com
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,me.com
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,cdn20.com
@@ -14,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,apple-dns.net
